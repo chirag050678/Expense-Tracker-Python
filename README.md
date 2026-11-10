@@ -64,3 +64,10 @@ GitHub: [@chirag050678](https://github.com/chirag050678)
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
+## 📸 Project Output
+
+Here is a screenshot of the SpendWise Expense Tracker running in the console.
+## 📸 Project Output
+
+Here is a screenshot of the SpendWise Expense Tracker running in the console.

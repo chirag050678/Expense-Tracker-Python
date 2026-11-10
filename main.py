@@ -14,7 +14,7 @@ while True:
 
 #Add Expenses
     if (choice ==1):
-        Date = int(input("Enter the Date of Expense in the Formet DD-MM-YYYY : "))
+        Date = input("Enter the Date of Expense in the Formet DD-MM-YYYY : ")
         Cateogory = input("Enter the Type of Expense : ")
         Description = input("Enter the description of the Expense : ")
         Amount = float (input("Enter the Amount of Expense : "))
